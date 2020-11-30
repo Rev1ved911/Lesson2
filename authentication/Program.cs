@@ -22,6 +22,7 @@ namespace authentication
         static void autentification(string trueLogin, string truePwd)
         {
             int i = 0, j = 3;
+            //Лучше использовать цикл for.
             while(i < 3)
             {
                 Console.Clear();
