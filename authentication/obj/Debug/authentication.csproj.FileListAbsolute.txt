@@ -1,0 +1,6 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\authentication\bin\Debug\authentication.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\authentication\bin\Debug\authentication.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\authentication\bin\Debug\authentication.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\authentication\obj\Debug\authentication.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\authentication\obj\Debug\authentication.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\authentication\obj\Debug\authentication.pdb
