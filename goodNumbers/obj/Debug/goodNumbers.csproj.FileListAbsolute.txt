@@ -1,0 +1,7 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\goodNumbers\bin\Debug\goodNumbers.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\goodNumbers\bin\Debug\goodNumbers.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\goodNumbers\bin\Debug\goodNumbers.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\goodNumbers\obj\Debug\goodNumbers.csprojAssemblyReference.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\goodNumbers\obj\Debug\goodNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\goodNumbers\obj\Debug\goodNumbers.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\goodNumbers\obj\Debug\goodNumbers.pdb
