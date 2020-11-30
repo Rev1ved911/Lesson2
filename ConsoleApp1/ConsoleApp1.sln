@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minNumber", "minNumber.csproj", "{192EC0AA-B910-4A08-AA31-DF72AFFA4E9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitsNumbers", "..\digitsNumbers\digitsNumbers.csproj", "{C90AFA45-0A14-4CF1-8BDB-BF2D05C198C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{192EC0AA-B910-4A08-AA31-DF72AFFA4E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{192EC0AA-B910-4A08-AA31-DF72AFFA4E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{192EC0AA-B910-4A08-AA31-DF72AFFA4E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90AFA45-0A14-4CF1-8BDB-BF2D05C198C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90AFA45-0A14-4CF1-8BDB-BF2D05C198C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90AFA45-0A14-4CF1-8BDB-BF2D05C198C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90AFA45-0A14-4CF1-8BDB-BF2D05C198C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

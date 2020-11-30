@@ -1,0 +1,7 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\digitsNumbers\bin\Debug\digitsNumbers.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\digitsNumbers\bin\Debug\digitsNumbers.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\digitsNumbers\bin\Debug\digitsNumbers.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\digitsNumbers\obj\Debug\digitsNumbers.csprojAssemblyReference.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\digitsNumbers\obj\Debug\digitsNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\digitsNumbers\obj\Debug\digitsNumbers.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\digitsNumbers\obj\Debug\digitsNumbers.pdb
