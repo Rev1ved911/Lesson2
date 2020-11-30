@@ -47,24 +47,24 @@ namespace IBM
                 print("\n\n    Ваш вес ниже нормы!");
                 ibmToNormal(growthCm, weight);
             }
-                else if (ibmIndex >= 18.5 & ibmIndex < 25)
+                else if (ibmIndex >= 18.5 && ibmIndex < 25)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
                     print("\n\n    У вас нормальный вес!");
                 }
-                    else if (ibmIndex >= 25 & ibmIndex < 30)
+                    else if (ibmIndex >= 25 && ibmIndex < 30)
                     {
                         Console.ForegroundColor = ConsoleColor.Yellow;
                         print("\n\n    У вас избыточный вес!");
                         ibmToNormal(growthCm, weight);
                     }
-                        else if (ibmIndex >= 30 & ibmIndex < 35)
+                        else if (ibmIndex >= 30 && ibmIndex < 35)
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
                             print("\n\n    У вас ожирение первой степени!");
                             ibmToNormal(growthCm, weight);
                         }
-                            else if(ibmIndex >= 35 & ibmIndex < 40)
+                            else if(ibmIndex >= 35 && ibmIndex < 40)
                             {
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 print("\n\n    У вас ожирение второй степени!");
