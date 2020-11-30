@@ -14,25 +14,43 @@ namespace minNumber
 {
     class Program
     {
+
+        static void pause()
+        {
+            Console.ReadKey();
+        }
+        static void print(string msg)
+        {
+            Console.Write(msg);
+        }
+        static void printNum(double num)
+        {
+            Console.WriteLine($"\nНаименьшее число: {num}");
+        }
         static void methodMinNumbers(double first, double second, double third)
         {
             if (first < second & first < third)
-                Console.Write(first);
+                printNum(first);
             else if (second < first & second < third)
-                Console.Write(second);
+                printNum(second);
             else
-                Console.Write(third);
+                printNum(third);
         }
         static void Main(string[] args)
         {
-            Console.Write("Введите первое число: ");
+            #region ConsoleColor
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Clear();
+            #endregion
+            print("Введите первое число: ");
             double firstNumber = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Введите второе число: ");
+            print("Введите второе число: ");
             double secondNumber = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Введите третье число: ");
+            print("Введите третье число: ");
             double thirdNumber = Convert.ToDouble(Console.ReadLine());
             methodMinNumbers(firstNumber, secondNumber, thirdNumber);
-            Console.ReadKey();
+            print("\nPress any key...");
+            pause();
         }
     }
 }
