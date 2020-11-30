@@ -1,0 +1,6 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\recursiveMethod\bin\Debug\recursiveMethod.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\recursiveMethod\bin\Debug\recursiveMethod.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\recursiveMethod\bin\Debug\recursiveMethod.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\recursiveMethod\obj\Debug\recursiveMethod.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\recursiveMethod\obj\Debug\recursiveMethod.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\recursiveMethod\obj\Debug\recursiveMethod.pdb
