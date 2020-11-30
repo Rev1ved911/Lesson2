@@ -17,11 +17,15 @@ namespace recursiveMethod
     {
         static void numberPainting(double numA, double numB)
         {
-            while (numA != numB)
+            double initialNumB = numB;
+            double result = 0;
+            while ((numA-1) != numB)
             {
                 print($"\n{numB}");
+                result += numB;
                 numB--;
             }
+            print($"\n\nСумма чисел от {numA} до {initialNumB} равна {result}");
         }
         static void pause()
         {
