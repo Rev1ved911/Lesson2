@@ -1,0 +1,7 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\Summ\bin\Debug\Summ.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\Summ\bin\Debug\Summ.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\Summ\bin\Debug\Summ.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\Summ\obj\Debug\Summ.csprojAssemblyReference.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\Summ\obj\Debug\Summ.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\Summ\obj\Debug\Summ.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\Summ\obj\Debug\Summ.pdb
