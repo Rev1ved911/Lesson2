@@ -1,0 +1,6 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\IBM\bin\Debug\IBM.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\IBM\bin\Debug\IBM.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\IBM\bin\Debug\IBM.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\IBM\obj\Debug\IBM.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\IBM\obj\Debug\IBM.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 2\Lesson2\IBM\obj\Debug\IBM.pdb
